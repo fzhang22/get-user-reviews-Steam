@@ -49,17 +49,3 @@ if __name__ == "__main__":
     savePath = input("Please enter your file save path..e.g \"~/Documents/userReviews.csv\"\n")
     getReviews(appid, savePath)
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
